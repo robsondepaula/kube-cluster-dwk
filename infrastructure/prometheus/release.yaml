@@ -13,6 +13,7 @@ spec:
         namespace: flux-system
       version: "20.0.1"
   interval: 1h
+  targetNamespace: prometheus
   install:
     remediation:
       retries: 3

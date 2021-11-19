@@ -12,6 +12,7 @@ spec:
         name: grafana
         namespace: flux-system
   interval: 1h
+  targetNamespace: loki-stack
   install:
     remediation:
       retries: 3
