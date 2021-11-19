@@ -7,3 +7,4 @@ resources:
   - prometheus
   - loki
   - promtail
+  - sealed-secrets
