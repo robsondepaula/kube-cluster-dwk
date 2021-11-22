@@ -6,3 +6,4 @@ resources:
   - nats.yaml
   - prometheus.yaml
   - grafana.yaml
+  - sealed-secrets.yaml
