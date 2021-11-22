@@ -7,7 +7,7 @@ spec:
   interval: 10m
   sourceRef:
     kind: GitRepository
-    name: infrastructure
+    name: flux-system
   path: ./4_08/infrastructure
   prune: true
   validation: client
