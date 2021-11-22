@@ -8,7 +8,7 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux-system
-  path: ./infrastructure
+  path: ./4_07/infrastructure
   prune: true
   validation: client
   healthChecks:
